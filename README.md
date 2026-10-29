@@ -12,3 +12,4 @@ The purpose of this repository was to understand how to manage and start a local
 - Step 10. Once approved, merge the new branch into the main (master) branch.
 <img width="1848" height="861" alt="image" src="https://github.com/user-attachments/assets/ce484ec7-43d9-4996-ac3b-cffcba220192" />
 <img width="1335" height="827" alt="image" src="https://github.com/user-attachments/assets/67c2cb27-3927-4988-aec1-37024fe858f2" />
+  This was done by Adar Dwarka USI:1064659
