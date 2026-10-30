@@ -12,4 +12,6 @@ The purpose of this repository was to understand how to manage and start a local
 - Step 10. Once approved, merge the new branch into the main (master) branch.
 <img width="1848" height="861" alt="image" src="https://github.com/user-attachments/assets/ce484ec7-43d9-4996-ac3b-cffcba220192" />
 <img width="1335" height="827" alt="image" src="https://github.com/user-attachments/assets/67c2cb27-3927-4988-aec1-37024fe858f2" />
-  This was done by Adar Dwarka USI:1064659
+  Proof of The 404 error page from colleague
+<img width="590" height="1280" alt="WhatsApp Image 2026-10-19 at 5 50 55 PM" src="https://github.com/user-attachments/assets/8f059b24-7a64-4039-af9f-388f875307e9" />
+ This was done by Adar Dwarka USI:1064659
